@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\bin\Debug\net10.0\MEDIA-ARITMETICA.exe
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\bin\Debug\net10.0\MEDIA-ARITMETICA.deps.json
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\bin\Debug\net10.0\MEDIA-ARITMETICA.runtimeconfig.json
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\bin\Debug\net10.0\MEDIA-ARITMETICA.dll
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\bin\Debug\net10.0\MEDIA-ARITMETICA.pdb
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.AssemblyInfo.cs
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.sourcelink.json
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.dll
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\refint\MEDIA-ARITMETICA.dll
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.pdb
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\MEDIA-ARITMETICA.genruntimeconfig.cache
+C:\Users\User\Desktop\Média Aritmética\MEDIA-ARITMETICA\obj\Debug\net10.0\ref\MEDIA-ARITMETICA.dll
